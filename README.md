@@ -46,17 +46,17 @@ Selecciona el intérprete `.venv` con **Python: Select Interpreter**.
 | Archivo | Objetivo |
 |---|---|
 | [`00_conexion.py`](Tutorial_Tello_STD/scripts/00_conexion.py) | Conectar y consultar batería y altura. |
-| [`01_vuelo_basico.py`](scripts/01_vuelo_basico.py) | Ensayar despegue y aterrizaje; **vuelo deshabilitado por defecto**. |
-| [`02_captura_foto.py`](scripts/02_captura_foto.py) | Obtener una foto de la cámara frontal. |
-| [`03_crear_marcadores_aruco.py`](scripts/03_crear_marcadores_aruco.py) | Generar marcadores ArUco para impresión. |
-| [`04_reconocer_marca_en_foto.py`](scripts/04_reconocer_marca_en_foto.py) | Detectar identificadores de marcadores en imágenes. |
-| [`05_monitor_marcas_camara.py`](scripts/05_monitor_marcas_camara.py) | Reconocer marcas desde el video del Tello en tierra. |
-| [`06_ruta_visual_simulada.py`](scripts/06_ruta_visual_simulada.py) | Validar una secuencia de estaciones sin hardware. |
-| [`07_ruta_visual_supervisada.py`](scripts/07_ruta_visual_supervisada.py) | Estudiar una ruta por estaciones con tramos preensayados; **bloqueada por defecto**. |
+| [`01_vuelo_basico.py`](Tutorial_Tello_STD/scripts/01_vuelo_basico.py) | Ensayar despegue y aterrizaje; **vuelo deshabilitado por defecto**. |
+| [`02_captura_foto.py`](Tutorial_Tello_STD/scripts/02_captura_foto.py) | Obtener una foto de la cámara frontal. |
+| [`03_crear_marcadores_aruco.py`](Tutorial_Tello_STD/scripts/03_crear_marcadores_aruco.py) | Generar marcadores ArUco para impresión. |
+| [`04_reconocer_marca_en_foto.py`](Tutorial_Tello_STD/scripts/04_reconocer_marca_en_foto.py) | Detectar identificadores de marcadores en imágenes. |
+| [`05_monitor_marcas_camara.py`](Tutorial_Tello_STD/scripts/05_monitor_marcas_camara.py) | Reconocer marcas desde el video del Tello en tierra. |
+| [`06_ruta_visual_simulada.py`](Tutorial_Tello_STD/scripts/06_ruta_visual_simulada.py) | Validar una secuencia de estaciones sin hardware. |
+| [`07_ruta_visual_supervisada.py`](Tutorial_Tello_STD/scripts/07_ruta_visual_supervisada.py) | Estudiar una ruta por estaciones con tramos preensayados; **bloqueada por defecto**. |
 
 ## Tutorial completo
 
-Lee **[`TUTORIAL_DJITelloPy_TELLO_ESTANDAR.md`](TUTORIAL_DJITelloPy_TELLO_ESTANDAR.md)** para encontrar las explicaciones paso a paso, los comandos esenciales y la progresión de actividades.
+Lee **[`TUTORIAL_DJITelloPy_TELLO_ESTANDAR.md`](Tutorial_Tello_STD/TUTORIAL_DJITelloPy_TELLO_ESTANDAR.md)** para encontrar las explicaciones paso a paso, los comandos esenciales y la progresión de actividades.
 
 ## Importante: reconocimiento visual y seguridad
 
