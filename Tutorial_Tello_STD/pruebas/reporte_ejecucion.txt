@@ -1,0 +1,28 @@
+[OK] 8 scripts analizados y sin API incompatible
+[OK] Marcas 1, 2 y 3 detectadas en OpenCV
+Esperando 1 | lectura=None | consecutivas=0
+Esperando 1 | lectura=1 | consecutivas=1
+Esperando 1 | lectura=1 | consecutivas=2
+Esperando 1 | lectura=1 | consecutivas=3
+ESTACIÓN OK: INICIAR
+Esperando 2 | lectura=None | consecutivas=0
+Esperando 2 | lectura=2 | consecutivas=1
+Esperando 2 | lectura=2 | consecutivas=2
+Esperando 2 | lectura=2 | consecutivas=3
+ESTACIÓN OK: GIRAR 90 DERECHA
+Esperando 3 | lectura=None | consecutivas=0
+Esperando 3 | lectura=3 | consecutivas=1
+Esperando 3 | lectura=3 | consecutivas=2
+Esperando 3 | lectura=3 | consecutivas=3
+ESTACIÓN OK: REGISTRAR ENTREGA Y FINALIZAR
+MISIÓN LÓGICA COMPLETA
+Esperando 1 | lectura=1 | consecutivas=1
+Esperando 1 | lectura=1 | consecutivas=2
+Esperando 1 | lectura=1 | consecutivas=3
+ESTACIÓN OK: INICIAR
+Esperando 2 | lectura=3 | consecutivas=0
+Esperando 2 | lectura=3 | consecutivas=0
+Esperando 2 | lectura=3 | consecutivas=0
+MISIÓN INCOMPLETA: faltan marcas o confirmaciones
+[OK] FSM aprueba la ruta y rechaza marca fuera de orden
+[OK] Modalidades de vuelo bloqueadas por defecto
