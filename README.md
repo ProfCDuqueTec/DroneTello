@@ -45,7 +45,7 @@ Selecciona el intérprete `.venv` con **Python: Select Interpreter**.
 
 | Archivo | Objetivo |
 |---|---|
-| [`00_conexion.py`](scripts/00_conexion.py) | Conectar y consultar batería y altura. |
+| [`00_conexion.py`](Tutorial_Tello_STD/scripts/00_conexion.py) | Conectar y consultar batería y altura. |
 | [`01_vuelo_basico.py`](scripts/01_vuelo_basico.py) | Ensayar despegue y aterrizaje; **vuelo deshabilitado por defecto**. |
 | [`02_captura_foto.py`](scripts/02_captura_foto.py) | Obtener una foto de la cámara frontal. |
 | [`03_crear_marcadores_aruco.py`](scripts/03_crear_marcadores_aruco.py) | Generar marcadores ArUco para impresión. |
